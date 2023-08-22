@@ -1,14 +1,17 @@
-
-
+<!--  eComm PRO - Search Template (Film)
+   ==========================================================================-->
+<!--Version 2.01.001 -->
 <HTML>
 <HEAD>
 
 
-
+<!--   Page Title
+  ==========================================================================-->
   <TITLE>El Roperito Galileo</TITLE>
 
 
-
+<!--   Meta Tags used by Search Engines
+  ==========================================================================-->
   <META NAME="description" content="El Roperito Galileo">
   <META NAME="keywords" CONTENT="">
   <META NAME="generator" content="eComm PRO v2.08">
@@ -18,7 +21,8 @@
   <META NAME="copyright" content="Copyright ©2001 Universidad Galileo">
 
 
-
+<!--   Page Style.  This changes color of links to red on mouse over
+  ==========================================================================-->
   <style type="text/css">A:hover{color:#FF0000;}
 .m {font-size: 8pt; font-family:verdana,helvetica,arial; font-weight:normal;}
 .b {font-size: 8pt; font-family:verdana,helvetica,arial; font-weight:bold;}
@@ -27,8 +31,11 @@
   </HEAD>
 
 
-
-  
+<!--   Inserts Rebuild Frame Code
+       This code will rebuild the store frames regardless of where a user
+       enters the store.
+  ==========================================================================-->
+  <!-- frame.dat - Version 2.0 Copyright 2000 Trellian -->
 
 <SCRIPT> 
 
@@ -87,7 +94,8 @@ function removeItem(code){
 
 
 
-
+<!--   Page definitions, variables are replaced by Scheme colors
+  ==========================================================================-->
   <BODY text=#96B9ED bgcolor=#000000 link=#A321BE vlink=#A80047 alink=#FF0000 topmargin=0 leftmargin=0 marginheight=0 marginwidth=0>
 
 <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
@@ -137,8 +145,9 @@ function removeItem(code){
 
 <table BORDER=0 CELLSPACING=2 CELLPADDING=0  WIDTH=100%>
 <tr><td BACKGROUND="">
-
-
+<!-- Menu start -->
+<!--   Create the Product Navigation Index here
+  ==========================================================================-->
   <table width=100%><tr><td valign=top width=5%><img src="n1o1.png"></td><td class=b><a href="index.html">El Roperito Galileo</a><table class=mb width=100%><tr><td valign=top width=5%><img src="n1p1.png"></td><td class=m><a href="36.htm">Damas</a></td></tr>
 </table></td></tr>
 <tr><td valign=top width=5%><img src="n1p1.png"></td><td class=m><a href="about.html">About Us</a></td></tr>
@@ -148,7 +157,11 @@ function removeItem(code){
 </table>
 
 
-
+<!--
+ = ============================
+  Product Search 
+  =============================
+-->
 
 <br>
 <table cellspacing=6><tr><td>
@@ -183,31 +196,29 @@ Search:<br>
 <td ALIGN=CENTER VALIGN=TOP WIDTH=100% BACKGROUND="">
 
 
+
 <table BORDER=0 CELLSPACING=8 CELLPADDING=0 WIDTH=100%><tr VALIGN=TOP><td>
+<!-- Product name start -->
 <center><b><font face="Verdana, Arial"><font color="#FF1A1A"><font size=+2>El Roperito Galileo</font></font></font></b>
+
+<!-- Showcase name start -->
+<!-- IMAGE starts -->
 <br>
-
-
-
-<br>
-
+<!-- To remove a frame outside of an image, change "border=1" to "border=0" in the following table tag. -->
 <table border=1 cellspacing=0 CELLPADDING=0>
 <tr><td>
 </a>
 </td></tr>
 </table>
 
-  <TABLE>
-  <tr><td valign=top></td><td></td></tr>
-  <tr><td valign=top></td><td></td></tr>
-  <tr><td valign=top></td><td></td></tr>
-  <tr><td valign=top></td><td></td></tr>
-  <tr><td valign=top></td><td></td></tr>
-  <tr><td valign=top></td><td></td></tr>
-  </TABLE>
+<!-- Showcase name start -->
 <br>
+<!-- Description start --><table width=100% cellspacing=0 cellpadding=0><tr><td><b><font size=+1>%QUERY%</td><td align=right>%PREVIOUSNEXT%</td></tr></table>
+<br><br>
+%RESULTS%
+<!-- Description finish -->&nbsp;
 
-&nbsp;
+
 
 </td></tr></table>
 
@@ -232,7 +243,9 @@ Search:<br>
 <td ALIGN=LEFT WIDTH=100%><img SRC="f2_emid.png" BORDER=0 align=TEXTTOP></td>
 
 <td ALIGN=RIGHT WIDTH=""><a href="index.html"><img SRC="f2_back.png" ALT="Back" BORDER=0 align=LEFT hspace=0 vspace=0></a>
-
+<!--  Insert ADD & REMOVE buttons 
+<a href="javascript:addItem('index.html','','El Roperito Galileo','0.00','',1,0,0,0,'','')"><img SRC="f2_purchase.png" ALT="Add"  BORDER=0 align=LEFT hspace=0 vspace=0></a><a href="javascript:removeItem('')"><img SRC="f2_remove.png" ALT="Remove" BORDER=0 align=LEFT hspace=0 vspace=0></a>
+===========================================================================-->
 </td></tr>
 </table>
 

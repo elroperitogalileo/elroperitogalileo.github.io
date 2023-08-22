@@ -1,0 +1,15 @@
+; Ecomm Index File
+; v2.08
+VERSION=2.08.002
+TITLE=El Roperito Galileo
+CURRENCY=$
+COUNTRY=Guatemala
+#1|'Camisa Blanca'|'100.00'|'36.htm'|'1 copia.jpg'|'1 copia.jpg'||
+#1|'Blusa'|'120'|'36.htm'|'3 copia.jpg'|'3.jpg'||
+#2|'Damas'||'36.htm'||||
+#1|'Camisa Blanca'|'100.00'|'36.htm'|'1 copia.jpg'|'1 copia.jpg'||
+#1|'Blusa'|'120'|'36.htm'|'3 copia.jpg'|'3.jpg'||
+#0|'El Roperito Galileo'||'index.html'||||
+#4|'About Us'||'about.html'||||
+#4|'News'||'news.html'||||
+#4|'Contact Us'||'contact.html'||||
